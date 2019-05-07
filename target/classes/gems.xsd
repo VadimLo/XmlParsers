@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.example.com/Gems"
+        xmlns:tns="http://www.example.com/Gems">
+    <element name="Gems">
+        <complexType>
+            <sequence>
+                <element name="gem"
+                type="tns:gem" minOccurs="1" maxOccurs="unbounded"/>
+                <element name="diamond"
+                         type="tns:diamond" minOccurs="1" maxOccurs="unbounded"/>
+                <element name="mineral"
+                         type="tns:mineral" minOccurs="1" maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+    <complexType name="gem">
+        <sequence>
+
+            <element name="preciousness" type="string"/>
+            <element name="visualParameters" type="tns:visualParameters"/>
+            <element name="value" type="integer"/>
+        </sequence>
+        <attribute name="name" type="tns:name"
+                   use="required"/>
+        <attribute name="origin" type="string"
+                   use="required"/>
+    </complexType>
+    <simpleType name="name">
+        <restriction base="ID">
+            <pattern value="[a-zA-Z]{3}[a-zA-Z0-9_]*"/>
+        </restriction>
+    </simpleType>
+    <complexType name="visualParameters">
+        <sequence>
+            <element name="color" type="string"/>
+            <element name="transparency" type="integer"/>
+            <element name="cutMethod" type="integer"/>
+        </sequence>
+    </complexType>
+    <complexType name="diamond">
+        <complexContent>
+            <extension base="tns:gem">
+                <sequence>
+                    <element name="course" type="integer"/>
+                    <element name="faculty" type="string"/>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+    <complexType name="mineral">
+        <complexContent>
+            <extension base="tns:gem">
+                <sequence>
+                    <element name="course" type="integer"/>
+                    <element name="faculty" type="string"/>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+
+</schema>

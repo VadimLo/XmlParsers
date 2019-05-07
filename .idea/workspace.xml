@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e59614cc-a834-4735-8b40-98ec63c759c8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/parsers/domparser/GemDomParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="98" column="24" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/test/directortest/DirectorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/director/Director.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/gems.xsd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/gems.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/parsers/jaxbparser/gems.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#831#832#0" expanded="true" />
+                <element signature="e#879#880#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#990#991#0" expanded="true" />
+                <element signature="e#1024#1025#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
+                <element signature="e#1084#1085#0" expanded="true" />
+                <element signature="e#1126#1127#0" expanded="true" />
+                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="e#1193#1194#0" expanded="true" />
+                <element signature="e#1225#1226#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/validation/Validator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log_file.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log_file.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/parsers/saxparser/GemsHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1900">
+              <caret line="104" column="26" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="XSLT Stylesheet" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>preciousness</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/kgk.xsd" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/MyErrorHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UserHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SAXParserDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SaxPrserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/dsv.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/Gem.xsd.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/students.xsd.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/students.xsd" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/p.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/Gem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/StudentEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/GemsSAXBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/gem.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/GemEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/StudentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/GemsHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/GemsSAXParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/enums/Color.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/gems.xsd.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/gems.xsd" />
+        <option value="$PROJECT_DIR$/src/main/resources/gems.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/test/Test/XSDMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/validation/MyErrorHandler.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/classes/Gem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/StudentsDOMBuilder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/test/Test/sv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/jaxbparser/kaka.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/jaxbparser/javism_jaxb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/jaxbparser/Gems.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/r.xsd" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/domparser/StudentsDOMBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/saxparser/GemsSAXParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/jaxbparser/JAXBParser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/test/test/directortest/Directortest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/saxparser/GemEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/director/Director.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/test/test/directortest/DirectorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/test/test/validatortest/ValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/classes/Mineral.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/classes/Diamond.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/saxparser/GemsHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/StaxParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/domparser/GemDomParser.java" />
+        <option value="$PROJECT_DIR$/log_file.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/validation/Validator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/test/directortest/DirectorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/task/parsers/jaxbparser/gems.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TaskXML" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="305" />
+    <option name="y" value="85" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TaskXML\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TaskXML\target" />
+      <recent name="D:\TaskXML\src\main\resources" />
+      <recent name="D:\TaskXML" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.DirectorTest.shouldReturnNotNull (1)">
+    <configuration name="SAXParserDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SAXParserDemo" />
+      <module name="TaskXML" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TaskXML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.test.test.directortest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.test.test.directortest" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.test.test.directortest.DirectorTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectorTest.shouldReturnList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TaskXML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.test.test.directortest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.test.test.directortest" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.test.test.directortest.DirectorTest" />
+      <option name="METHOD_NAME" value="shouldReturnList" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectorTest.shouldReturnNotNull (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TaskXML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.test.directortest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.test.directortest" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.test.directortest.DirectorTest" />
+      <option name="METHOD_NAME" value="shouldReturnNotNull" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectorTest.shouldReturnNotNull" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TaskXML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.test.test.directortest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.test.test.directortest" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.test.test.directortest.DirectorTest" />
+      <option name="METHOD_NAME" value="shouldReturnNotNull" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorTest.shouldCheckXMLAndReturnTrue" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TaskXML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.test.test.validatortest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.test.test.validatortest" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.test.test.validatortest.ValidatorTest" />
+      <option name="METHOD_NAME" value="shouldCheckXMLAndReturnTrue" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SAXParserDemo" />
+      <item itemvalue="TestNG.DirectorTest" />
+      <item itemvalue="TestNG.DirectorTest.shouldReturnList" />
+      <item itemvalue="TestNG.DirectorTest.shouldReturnNotNull (1)" />
+      <item itemvalue="TestNG.DirectorTest.shouldReturnNotNull" />
+      <item itemvalue="TestNG.ValidatorTest.shouldCheckXMLAndReturnTrue" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DirectorTest.shouldReturnNotNull (1)" />
+        <item itemvalue="TestNG.DirectorTest.shouldReturnList" />
+        <item itemvalue="TestNG.DirectorTest.shouldReturnNotNull" />
+        <item itemvalue="TestNG.DirectorTest" />
+        <item itemvalue="TestNG.ValidatorTest.shouldCheckXMLAndReturnTrue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e59614cc-a834-4735-8b40-98ec63c759c8" name="Default" comment="" />
+      <created>1533059944660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533059944660</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DirectorTest_shouldReturnList - 2018.08.05 at 23h 00m 12s.xml">
+      <configuration name="DirectorTest.shouldReturnList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DirectorTest_shouldReturnList - 2018.08.05 at 23h 00m 56s.xml">
+      <configuration name="DirectorTest.shouldReturnList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DirectorTest_shouldReturnNotNull - 2018.08.05 at 23h 03m 06s.xml">
+      <configuration name="DirectorTest.shouldReturnNotNull" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ValidatorTest_shouldCheckXMLAndReturnTrue - 2018.08.05 at 23h 08m 49s.xml">
+      <configuration name="ValidatorTest.shouldCheckXMLAndReturnTrue" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DirectorTest - 2018.08.05 at 23h 16m 06s.xml">
+      <configuration name="DirectorTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DirectorTest_shouldReturnList - 2018.08.05 at 23h 16m 17s.xml">
+      <configuration name="DirectorTest.shouldReturnList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DirectorTest_shouldReturnNotNull - 2018.08.05 at 23h 16m 30s.xml">
+      <configuration name="DirectorTest.shouldReturnNotNull" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DirectorTest_shouldReturnNotNull - 2018.08.05 at 23h 17m 13s.xml">
+      <configuration name="DirectorTest.shouldReturnNotNull" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DirectorTest_shouldReturnList - 2018.08.05 at 23h 17m 22s.xml">
+      <configuration name="DirectorTest.shouldReturnList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DirectorTest_shouldReturnNotNull_(1) - 2019.05.01 at 16h 10m 16s.xml">
+      <configuration name="DirectorTest.shouldReturnNotNull (1)" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="156" y="43" width="784" height="832" extended-state="7" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.09504132" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.37751004" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32905984" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.26104417" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24966443" />
+      <window_info anchor="right" id="Maven" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18364611" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.37751004" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32905984" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.26104417" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24966443" />
+    </layout-to-restore>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TaskXML.iml" />
+    <entry file="file://$PROJECT_DIR$/target/kk" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/r.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/r.xsd.xml" />
+    <entry file="file://$PROJECT_DIR$/v" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/kgk.xsd" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Gem.xsd" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/test/sdc.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/test/Test/kk.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/test/Test/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dsv.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Gem.xsd.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/students.xsd.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/SaxPrserTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/parsers/p.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Enum.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/gem.xml" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/org/w3c/dom/Element.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/org/w3c/dom/Node.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/org/w3c/dom/NodeList.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/parsers/jaxbparser/kaka.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/test/Test/XSDMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/r.xsd" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/SAXParserDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/parsers/jaxbparser/JAXBParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/test/test/sv.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/test/validatortest/ValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="80" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/classes/Diamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/StaxParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/test/test/k.java" />
+    <entry file="file://$PROJECT_DIR$/log.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="89" selection-start-line="10" selection-start-column="89" selection-end-line="10" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/classes/Gem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/enums/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/classes/Mineral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/parsers/saxparser/GemEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/parsers/saxparser/GemsSAXParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/validation/MyErrorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/parsers/domparser/GemDomParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="98" column="24" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/test/directortest/DirectorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/gems.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/gems.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/parsers/jaxbparser/gems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1225#1226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/validation/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log_file.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_file.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/parsers/saxparser/GemsHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="104" column="26" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/task/director/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TaskXML</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<gems:Gems xmlns:gems="http://www.example.com/Gems">
+  <!--1 or more repetitions:-->
+  <gem name="strdving" origin="string">
+    <preciousness>string</preciousness>
+    <visualParameters>
+      <color>string</color>
+      <transparency>100</transparency>
+      <cutMethod>100</cutMethod>
+    </visualParameters>
+    <value>100</value>
+  </gem>
+  <!--1 or more repetitions:-->
+  <diamond name="strifng" origin="string">
+    <preciousness>string</preciousness>
+    <visualParameters>
+      <color>string</color>
+      <transparency>100</transparency>
+      <cutMethod>100</cutMethod>
+    </visualParameters>
+    <value>100</value>
+    <course>100</course>
+    <faculty>string</faculty>
+  </diamond>
+  <!--1 or more repetitions:-->
+  <mineral name="string" origin="string">
+    <preciousness>string</preciousness>
+    <visualParameters>
+      <color>string</color>
+      <transparency>100</transparency>
+      <cutMethod>100</cutMethod>
+    </visualParameters>
+    <value>100</value>
+    <course>100</course>
+    <faculty>string</faculty>
+  </mineral>
+</gems:Gems>

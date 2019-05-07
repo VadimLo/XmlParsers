@@ -1,0 +1,131 @@
+2018-08-05 14:00:53 FATAL xsd:28 - 0 : 0 - File "file:///D:/TaskXML/students.xsd.xml" not found.
+2018-08-05 14:05:10 ERROR xsd:24 - 1 : 57 - General Schema Error: Grammar with uri 2: http://www.example.com/Students , can not be found.
+2018-08-05 14:05:10 ERROR xsd:24 - 1 : 57 - Element type "stud:Gems" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 3 : 40 - Element type "gem" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 4 : 11 - Element type "name" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 5 : 13 - Element type "origin" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 6 : 19 - Element type "preciousness" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 7 : 14 - Element type "color" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 8 : 21 - Element type "transparency" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 9 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 11 : 12 - Element type "value" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 14 : 44 - Element type "diamond" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 15 : 11 - Element type "name" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 16 : 13 - Element type "origin" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 17 : 19 - Element type "preciousness" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 18 : 14 - Element type "color" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 19 : 21 - Element type "transparency" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 20 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 22 : 12 - Element type "value" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 23 : 13 - Element type "course" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 24 : 14 - Element type "faculty" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 27 : 44 - Element type "mineral" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 28 : 11 - Element type "name" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 29 : 13 - Element type "origin" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 30 : 19 - Element type "preciousness" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 31 : 14 - Element type "color" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 32 : 21 - Element type "transparency" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 33 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 35 : 12 - Element type "value" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 36 : 13 - Element type "course" must be declared.
+2018-08-05 14:05:10 ERROR xsd:24 - 37 : 14 - Element type "faculty" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 2 : 57 - General Schema Error: Grammar with uri 2: http://www.example.com/Students , can not be found.
+2018-08-05 14:53:12 ERROR xsd:24 - 2 : 57 - Element type "stud:Gems" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 4 : 40 - Element type "gem" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 5 : 11 - Element type "name" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 6 : 13 - Element type "origin" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 7 : 19 - Element type "preciousness" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 8 : 14 - Element type "color" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 9 : 21 - Element type "transparency" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 10 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 12 : 12 - Element type "value" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 15 : 44 - Element type "diamond" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 16 : 11 - Element type "name" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 17 : 13 - Element type "origin" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 18 : 19 - Element type "preciousness" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 19 : 14 - Element type "color" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 20 : 21 - Element type "transparency" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 21 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 23 : 12 - Element type "value" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 24 : 13 - Element type "course" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 25 : 14 - Element type "faculty" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 28 : 44 - Element type "mineral" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 29 : 11 - Element type "name" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 30 : 13 - Element type "origin" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 31 : 19 - Element type "preciousness" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 32 : 14 - Element type "color" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 33 : 21 - Element type "transparency" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 34 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 36 : 12 - Element type "value" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 37 : 13 - Element type "course" must be declared.
+2018-08-05 14:53:12 ERROR xsd:24 - 38 : 14 - Element type "faculty" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 1 : 57 - General Schema Error: Grammar with uri 2: http://www.example.com/Students , can not be found.
+2018-08-05 15:17:27 ERROR xsd:24 - 1 : 57 - Element type "stud:Gems" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 3 : 40 - Element type "gem" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 4 : 11 - Element type "name" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 5 : 13 - Element type "origin" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 6 : 19 - Element type "preciousness" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 7 : 23 - Element type "visualParameters" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 8 : 14 - Element type "color" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 9 : 21 - Element type "transparency" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 10 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 12 : 12 - Element type "value" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 15 : 44 - Element type "diamond" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 16 : 11 - Element type "name" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 17 : 13 - Element type "origin" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 18 : 19 - Element type "preciousness" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 19 : 23 - Element type "visualParameters" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 20 : 14 - Element type "color" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 21 : 21 - Element type "transparency" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 22 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 24 : 12 - Element type "value" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 25 : 13 - Element type "course" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 26 : 14 - Element type "faculty" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 29 : 44 - Element type "mineral" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 30 : 11 - Element type "name" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 31 : 13 - Element type "origin" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 32 : 19 - Element type "preciousness" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 33 : 23 - Element type "visualParameters" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 34 : 14 - Element type "color" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 35 : 21 - Element type "transparency" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 36 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 38 : 12 - Element type "value" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 39 : 13 - Element type "course" must be declared.
+2018-08-05 15:17:27 ERROR xsd:24 - 40 : 14 - Element type "faculty" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 1 : 53 - General Schema Error: Grammar with uri 2: http://www.example.com/Gems , can not be found.
+2018-08-05 19:40:20 ERROR xsd:24 - 1 : 53 - Element type "gems:Gems" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 3 : 40 - Element type "gem" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 4 : 19 - Element type "preciousness" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 5 : 23 - Element type "visualParameters" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 6 : 14 - Element type "color" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 7 : 21 - Element type "transparency" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 8 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 10 : 12 - Element type "value" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 13 : 43 - Element type "diamond" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 14 : 19 - Element type "preciousness" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 15 : 23 - Element type "visualParameters" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 16 : 14 - Element type "color" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 17 : 21 - Element type "transparency" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 18 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 20 : 12 - Element type "value" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 21 : 13 - Element type "course" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 22 : 14 - Element type "faculty" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 25 : 42 - Element type "mineral" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 26 : 19 - Element type "preciousness" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 27 : 23 - Element type "visualParameters" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 28 : 14 - Element type "color" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 29 : 21 - Element type "transparency" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 30 : 18 - Element type "cutMethod" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 32 : 12 - Element type "value" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 33 : 13 - Element type "course" must be declared.
+2018-08-05 19:40:20 ERROR xsd:24 - 34 : 14 - Element type "faculty" must be declared.
+2018-08-05 23:00:11 ERROR Validator:23 - 1 : 53 - cvc-elt.1: Cannot find the declaration of element 'gems:Gems'.
+2018-08-05 23:00:55 ERROR Validator:23 - 1 : 53 - cvc-elt.1: Cannot find the declaration of element 'gems:Gems'.
+2018-08-05 23:03:06 ERROR Validator:23 - 1 : 53 - cvc-elt.1: Cannot find the declaration of element 'gems:Gems'.
+2018-08-05 23:08:49 ERROR Validator:23 - 1 : 53 - cvc-elt.1: Cannot find the declaration of element 'gems:Gems'.
+2018-08-05 23:16:06 ERROR Validator:23 - 1 : 53 - cvc-elt.1: Cannot find the declaration of element 'gems:Gems'.
+2018-08-05 23:16:06 ERROR Validator:23 - 1 : 53 - cvc-elt.1: Cannot find the declaration of element 'gems:Gems'.
+2018-08-05 23:16:17 ERROR Validator:23 - 1 : 53 - cvc-elt.1: Cannot find the declaration of element 'gems:Gems'.
+2018-08-05 23:16:29 ERROR Validator:23 - 1 : 53 - cvc-elt.1: Cannot find the declaration of element 'gems:Gems'.
+2018-08-05 23:17:12 ERROR Validator:23 - 1 : 53 - cvc-elt.1: Cannot find the declaration of element 'gems:Gems'.
+2018-08-05 23:17:21 ERROR Validator:23 - 1 : 53 - cvc-elt.1: Cannot find the declaration of element 'gems:Gems'.
